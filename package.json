@@ -1,6 +1,6 @@
 {
   "name": "tarec-plugin-mocha",
-  "version": "1.0.0",
+  "version": "0",
   "description": "Tarec plugins to support writing tests with mocha and check coverage with nyc",
   "main": "lib/index.js",
   "keywords": [
